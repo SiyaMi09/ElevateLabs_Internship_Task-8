@@ -1,0 +1,7 @@
+💡 Key Insights
+
+1. Office Supplies Lead in Sales Share – Office Supplies contributed the largest portion of total sales (36.4%), slightly outperforming Furniture and Technology.
+
+2. Uneven Regional Sales Distribution – A small number of regions generated the majority of sales, suggesting strong performance hubs and potential growth opportunities in underperforming regions.
+
+3. Declining Sales Trend Over Time – Sales peaked in the early months of the dataset but showed a gradual decline thereafter, indicating possible seasonal patterns or a need for sustained marketing efforts.
